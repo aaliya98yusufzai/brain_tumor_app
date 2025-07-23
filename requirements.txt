@@ -2,6 +2,6 @@ streamlit
 numpy
 pandas
 Pillow
-tensorflow
+tensorflow==2.9.1
 scikit-learn
 matplotlib
